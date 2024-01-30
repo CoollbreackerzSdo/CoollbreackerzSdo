@@ -5,6 +5,7 @@ Junior Backend Developer
 ------------------------
 
 * 🌍  I'm based in Republica dominicana
+* 📜 See My Personal [Blog](https://chilltechmusic.netlify.app)
 * 🖥️  See my portfolio at [next](http://#)
 * ✉️  You can contact me at [ralberinfante1@gmail.com](mailto:ralberinfante1@gmail.com)
 * 🧠  I'm learning Flutter
