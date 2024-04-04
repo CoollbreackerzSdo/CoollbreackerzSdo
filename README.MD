@@ -8,7 +8,7 @@ Junior Backend Developer
 * 📜 See My Personal [Blog](https://chilltechmusic.netlify.app)
 * 🖥️  See my portfolio at [next](http://#)
 * ✉️  You can contact me at [ralberinfante1@gmail.com](mailto:ralberinfante1@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on server-based projects
 
 ### Skills
