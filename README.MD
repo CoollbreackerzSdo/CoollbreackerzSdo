@@ -23,14 +23,6 @@
 
 <div align="center"><p>Backend, Mobile, DevOps</p></div>
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'CoollbreackerzSdo' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/CoollbreackerzSdo/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'CoollbreackerzSdo' with your actual GitHub username in the URL below -->
