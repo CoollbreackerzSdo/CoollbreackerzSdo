@@ -73,7 +73,7 @@
 
 ### 💬 Languages
 
-<img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-R-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=FFA500">
+<img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=FFA500"><img src="https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=FFA500">
 
 </div>
 
